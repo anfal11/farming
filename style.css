@@ -1,0 +1,81 @@
+span {
+    color: red;
+}
+
+.border {
+    background-image: url("/start/4396586.jpg");
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#section {
+    margin-top: 200px;
+}
+
+.section {
+    margin-left: 200px;
+}
+
+.btn {
+    margin-left: 200px;
+}
+
+.grid {
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-text {
+    margin-left: 0px;
+}
+
+#g1 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
+
+#g1 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
+
+#g2 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
+
+#g3 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
+
+#g4 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
+
+#g5 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
+
+#g6 {
+    width: 600px;
+
+    height: 300px;
+    object-fit: contain;
+}
