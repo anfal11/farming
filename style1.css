@@ -14,7 +14,7 @@ html, body{
   height: 100vh;
   width: 100%;
   place-items: center;
-  background: url("/goru.jpg");
+  background: url("goru.jpg");
   
   background-size: cover;
 }
